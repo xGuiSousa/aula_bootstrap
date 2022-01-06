@@ -1,0 +1,47 @@
+body{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body h3 {
+    font-weight: bolder;
+}
+
+.navbar {
+    background-color: rgb(68, 180, 68);
+}
+
+.quem-somos{
+    background-color: rgb(119, 149, 238);
+    color: white;
+}
+
+.quem-somos p{
+    margin-bottom: 0px;
+}
+
+.quem-somos img{
+    margin-bottom: 15px;
+}
+
+.servicos{
+    background-color: rgb(245, 115, 29);
+    color: white;
+}
+
+.margin{
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.col-lg-6 img{
+    border: 8px solid solid white;
+	box-shadow: 1px 1px 4px black;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+    padding-bottom: 10px;
+    font-size: 15px;
+}
